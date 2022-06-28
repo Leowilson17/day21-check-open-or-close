@@ -4,7 +4,6 @@ function display(){
      text = document.getElementById('box').value;
 }
 
-
 function buttonClick(){
     if ( text == 'Open'){
         document.getElementById('para').innerHTML = "We are " + text; 
