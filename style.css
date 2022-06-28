@@ -1,0 +1,15 @@
+.page-color{
+    background-color: aqua;
+    height: 300px;
+    width: auto;
+}
+.page{
+    text-align: center;
+}
+#box{
+font-size: 30px;
+margin-top: 40px;
+}
+#btn{
+    font-size: 30px;
+}
